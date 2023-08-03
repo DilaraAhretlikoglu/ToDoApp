@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\ToDo\bin\Debug\net7.0\ToDo.exe
+C:\Users\dilar\OneDrive\Masaüstü\ToDo\bin\Debug\net7.0\ToDo.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\ToDo\bin\Debug\net7.0\ToDo.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\ToDo\bin\Debug\net7.0\ToDo.dll
+C:\Users\dilar\OneDrive\Masaüstü\ToDo\bin\Debug\net7.0\ToDo.pdb
+C:\Users\dilar\OneDrive\Masaüstü\ToDo\obj\Debug\net7.0\ToDo.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\ToDo\obj\Debug\net7.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\ToDo\obj\Debug\net7.0\ToDo.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\ToDo\obj\Debug\net7.0\ToDo.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\ToDo\obj\Debug\net7.0\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\ToDo\obj\Debug\net7.0\ToDo.dll
+C:\Users\dilar\OneDrive\Masaüstü\ToDo\obj\Debug\net7.0\refint\ToDo.dll
+C:\Users\dilar\OneDrive\Masaüstü\ToDo\obj\Debug\net7.0\ToDo.pdb
+C:\Users\dilar\OneDrive\Masaüstü\ToDo\obj\Debug\net7.0\ToDo.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\ToDo\obj\Debug\net7.0\ref\ToDo.dll
