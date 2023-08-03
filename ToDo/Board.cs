@@ -68,13 +68,13 @@ public class Board
             {
                 if (giris == 1)
                 {
-                    return; // Silmeyi sonlandırmak için herhangi bir işlem yapmaya gerek yok.
+                    return; 
                 }
                 else if (giris == 2)
                 {
                     Console.WriteLine("Lütfen farklı bir kart başlığı yazınız: ");
                     string yeniBaslik = Console.ReadLine();
-                    KartSil(yeniBaslik); // Yeniden deneme işlemi.
+                    KartSil(yeniBaslik); 
                 }
                 else
                 {
@@ -139,7 +139,7 @@ public class Board
                 {
                     Console.WriteLine("Lütfen farklı bir kart başlığı yazınız: ");
                     string yeniBaslik = Console.ReadLine();
-                    KartTasi(yeniBaslik); // Yeniden deneme işlemi.
+                    KartTasi(yeniBaslik); 
                 }
                 else
                 {
@@ -176,7 +176,7 @@ public class Board
                     {
                         foreach (var line in Lines)
                         {
-                            line.KartListesi.Remove(kart); // Corrected line here
+                            line.KartListesi.Remove(kart); 
                         }
                         hedefLine.KartListesi.Add(kart);
                         Console.WriteLine("Kart başarıyla taşındı.");
